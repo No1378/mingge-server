@@ -3,7 +3,7 @@
   "bin": {
     "mingge-server":"./bin/run.js"
   },
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "静态资源服务器",
   "main": "server.js",
   "scripts": {
@@ -18,5 +18,9 @@
     "etag": "^1.8.1",
     "lodash": "^4.17.15",
     "yargs": "^15.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unclealan/mingge-server.git"
   }
 }
