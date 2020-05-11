@@ -1,0 +1,9 @@
+body {
+    background-color: purple;
+}
+.content {
+    color: #fff;
+    background: url('../images/pdh.jpg') no-repeat;
+    width:400px;
+    height: 310px;
+}
